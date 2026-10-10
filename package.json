@@ -22,21 +22,21 @@
     "@fastify/helmet": "^13.1.1",
     "@fastify/rate-limit": "^11.2.0",
     "@fastify/static": "^10.1.5",
+    "@types/node": "^26.6.4",
     "better-auth": "^1.7.7",
     "dotenv": "^18.0.5",
     "drizzle-orm": "^0.45.3",
     "fastify": "^5.12.5",
     "nodemailer": "^10.0.14",
-    "pg": "^8.23.1"
+    "pg": "^8.23.1",
+    "typescript": "^7.0.2"
   },
   "devDependencies": {
     "@electric-sql/pglite": "^0.5.8",
-    "@types/node": "^26.6.4",
     "@types/nodemailer": "^8.0.2",
     "@types/pg": "^8.23.1",
     "drizzle-kit": "^0.31.11",
     "tsx": "^4.23.15",
-    "typescript": "^7.0.2",
     "vitest": "^5.0.3"
   }
 }
